@@ -1,4 +1,4 @@
-package wiki.chenxun.ace.core;
+﻿package wiki.chenxun.ace.core;
 
 import wiki.chenxun.ace.core.base.annotations.parser.AnnotationParserRegister;
 import wiki.chenxun.ace.core.base.common.Context;
@@ -18,6 +18,7 @@ import java.util.Set;
  * Created by chenxun on 2017/4/7.
  */
 public final class Main {
+
     /**
      * 服务运行标示，0运行，其他停止
      */
